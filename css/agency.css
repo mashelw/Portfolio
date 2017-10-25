@@ -138,7 +138,8 @@ header.masthead {
       line-height: 50px;
       margin-bottom: 25px;
       font-family: 'Montserrat', 'Helvetica Neue', Helvetica, Arial, sans-serif;
-      text-transform: uppercase; }
+      text-transform: uppercase;
+       }
 
 @media (min-width: 768px) {
   header.masthead .intro-text {
@@ -598,3 +599,9 @@ ul.social-buttons {
   .btn-xl .badge {
     color: #fed136;
     background-color: white; }
+    
+  .img-fluid{
+    height: 500;
+    width: 400;
+  }
+  }
